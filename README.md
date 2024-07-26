@@ -1,7 +1,7 @@
 # API Total gasto iFood
 
 ## Descrição
-Esta API permite aos usuários obter um resumo dos gastos no iFood, incluindo o total gasto, métodos de pagamento utilizados e os principais restaurantes com base nas ordens concluídas. O projeto é baseado no Flask e interage com a API do iFood.
+Esta API permite ao usuário obter um resumo dos gastos no iFood, incluindo o total gasto, métodos de pagamento utilizados e os principais restaurantes com base nas ordens concluídas. O projeto é baseado no Flask e interage com a API do iFood.
 
 ## Funcionalidades
 - **Obter Total Gasto no iFood**: Recebe um token Bearer e retorna o total gasto, métodos de pagamento utilizados e os principais restaurantes por gasto e pedidos.
