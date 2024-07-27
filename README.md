@@ -78,6 +78,9 @@ Esta API permite ao usuário obter um resumo dos gastos no iFood, incluindo o to
   }
 }
 ```
+---
+
+---
 
 # Total spent iFood API
 
@@ -161,4 +164,4 @@ Make a POST request to http://127.0.0.1:5000/get_total_ifood (the address may va
 }
 
 ```
-
+---
