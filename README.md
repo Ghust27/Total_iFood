@@ -80,8 +80,6 @@ Esta API permite ao usuário obter um resumo dos gastos no iFood, incluindo o to
 ```
 ---
 
----
-
 # Total spent iFood API
 
 ## Description
