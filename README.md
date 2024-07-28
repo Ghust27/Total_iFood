@@ -40,41 +40,41 @@ Esta API permite ao usuário obter um resumo dos gastos no iFood, incluindo o to
   },
   "top_restaurants_by_spending": [
     {
-      "name": "Restaurante A",
+      "name": "Restaurant A",
       "orders": 10,
       "total_spent": "456.78"
     },
     {
-      "name": "Restaurante B",
+      "name": "Restaurant B",
       "orders": 5,
       "total_spent": "234.56"
     },
     {
-      "name": "Restaurante C",
+      "name": "Restaurant C",
       "orders": 3,
       "total_spent": "123.45"
     }
   ],
   "top_restaurants_by_orders": [
     {
-      "name": "Restaurante A",
+      "name": "Restaurant A",
       "orders": 10,
       "total_spent": "456.78"
     },
     {
-      "name": "Restaurante B",
+      "name": "Restaurant B",
       "orders": 5,
       "total_spent": "234.56"
     },
     {
-      "name": "Restaurante C",
+      "name": "Restaurant C",
       "orders": 3,
       "total_spent": "123.45"
     }
   ],
   "payment_methods": {
-    "Crédito": 1000,
-    "Débito": 234.56
+    "Credit": 1000,
+    "Debit": 234.56
   }
 }
 ```
